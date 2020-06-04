@@ -1,0 +1,115 @@
+[Root]
+Most Recent Package=Car Listing
+
+
+[Package|Car Listing|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Users\Mark.Lang\Desktop\Snippets\_WORK\CarListing\_Install
+
+[Package|Car Listing|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Car Listing|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Car Listing|Files Found]
+
+[Package|Car Listing|Files Released]
+3=
+
+[Package|Car Listing|Missing Dependency Information]
+C:\Program Files\Common Files\System\ado\msjro.dll=
+
+[Package|Car Listing|Out-of-Date Dependency Information]
+C:\Windows\System32\MSCOMCTL.OCX=
+C:\Windows\System32\scrrun.dll=
+
+[Package|Car Listing|Files Added]
+C:\Users\Mark.Lang\Desktop\Snippets\_WORK\CarListing\DB.mdb=
+
+[Package|Car Listing|Files Removed]
+
+[Package|Car Listing|Files In Project]
+C:\Users\Mark.Lang\Desktop\Snippets\_WORK\CarListing\CarListing.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\scrrun.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Windows\System32\MSDBRPTR.DLL=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msjro.dll=Yes
+C:\Windows\System32\MSCOMCTL.OCX=Yes
+C:\Quick Payroll\MSCOMCT2.OCX=Yes
+C:\Quick Payroll\comdlg32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Users\Mark.Lang\Desktop\Snippets\_WORK\CarListing\DB.mdb=Yes
+
+[Package|Car Listing|Configure Registry Files]
+Applicable=No
+
+[Package|Car Listing|Configure Remote Servers]
+Applicable=No
+
+[Package|Car Listing|Install Locations]
+C:\Users\Mark.Lang\Desktop\Snippets\_WORK\CarListing\CarListing.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\scrrun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msjro.dll=$(WinSysPath)
+C:\Windows\System32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Quick Payroll\MSCOMCT2.OCX=$(WinSysPath)
+C:\Quick Payroll\comdlg32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Users\Mark.Lang\Desktop\Snippets\_WORK\CarListing\DB.mdb=$(AppPath)
+
+[Package|Car Listing|Configure Shared Files]
+Applicable=Yes
+C:\Users\Mark.Lang\Desktop\Snippets\_WORK\CarListing\CarListing.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Users\Mark.Lang\Desktop\Snippets\_WORK\CarListing\DB.mdb=No
+
+[Package|Car Listing|Distribution]
+Type=single
+Size=
+Title=CarListing
+
+[Package|Car Listing|IconGroups]
+Group0=CarListing
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Car Listing|CarListing]
+Icon1=CarListing.exe
+Title1=CarListing
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Car Listing|Package]
+PackageFolder=C:\Users\Mark.Lang\Desktop\Snippets\_WORK\CarListing\_Install
+ProjectFolder=C:\Users\Mark.Lang\Desktop\Snippets\_WORK\CarListing
+ServerSideCab=
+File1=C:\Users\Mark.Lang\Desktop\Snippets\_WORK\CarListing\_Install\setup.exe
+File2=C:\Users\Mark.Lang\Desktop\Snippets\_WORK\CarListing\_Install\Setup.Lst
+File3=C:\Users\Mark.Lang\Desktop\Snippets\_WORK\CarListing\_Install\CarListing.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

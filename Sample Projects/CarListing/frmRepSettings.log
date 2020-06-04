@@ -1,0 +1,6 @@
+Line 86: Class ShowTime.ctlDBCombo of control ctlDBCombo1 was not a loaded control class.
+Line 95: Class ShowTime.ctlDBCombo of control ctlDBCombo2 was not a loaded control class.
+Line 92: The property name _ExtentX in ctlDBCombo1 is invalid.
+Line 93: The property name _ExtentY in ctlDBCombo1 is invalid.
+Line 101: The property name _ExtentX in ctlDBCombo2 is invalid.
+Line 102: The property name _ExtentY in ctlDBCombo2 is invalid.
