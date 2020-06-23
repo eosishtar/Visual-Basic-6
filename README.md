@@ -4,5 +4,12 @@
 
 # Controls
 
-* [Barcode](Visual-Basic-6/Controls/Barcode/)
-* [ComboBox](Visual-Basic-6/Controls/ComboBox/)
+* [Barcode](tree/master/Controls/Barcode/Barcode/)
+* [ComboBox](tree/master/Controls/Barcode/ComboBox/)
+* [LicenseKey](tree/master/Controls/Barcode/LicenseKey/)
+* [ProgressBar](tree/master/Controls/Barcode/ProgressBar/)
+* [SQLGrid](tree/master/Controls/Barcode/SQLGrid/)
+* [TextBox](tree/master/Controls/Barcode/TextBox/)
+* [Toggle](tree/master/Controls/Barcode/Toggle/)
+* [WebComboBox](tree/master/Controls/Barcode/WebComboBox/)
+
